@@ -10,13 +10,13 @@ This project system eliminates the need for maintaining paper electricity bills,
 
 ## Contents
 
-1) Introduction
-2) Requirements
-3) Project Setup
-4) Components
-5) Output
-6) Contributing
-7) License
+1) [Introduction](#introduction)
+2) [Requirements](#requirements)
+3) [Project Setup](#project-setup)
+4) [Components](#components)
+5) [Output](#output)
+6) [Contributing](#contributing)
+7) [License](#license)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Electricity Billing System is a software-based application.
 
 ## Project Setup
 
-1. 1. Clone the repository to your local machine.
+1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/your-username/electricity-billing-system.git
 2. Install MySQL if not installed.
