@@ -47,8 +47,10 @@ Electricity Billing System is a software-based application.
    1. MySQL connector (mysql-connector-j-8.2.jar)
       ```bash
       https://cdn.mysql.com//Downloads/Connector-J/mysql-connector-j-8.2.0.zip
-   extract then choose mysql-connector-j-8.2.0.jar
-   3. rs2xml.jar
+      ```
+      extract then choose mysql-connector-j-8.2.0.jar
+   
+   2. rs2xml.jar
       ```bash
       https://webwerks.dl.sourceforge.net/project/finalangelsanddemons/rs2xml.jar
 10. Create a new project named as "Electricity Billing system" and start coding the java classes.
