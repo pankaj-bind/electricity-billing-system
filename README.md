@@ -29,7 +29,7 @@ Electricity Billing System is a software-based application.
 
 - Microsoft SQL Server
 - Java core/swing 
-- NetBeans IDE
+- NetBeans IDE (Preffered)
 - MySQL
 
 ## Project Setup
@@ -44,7 +44,7 @@ Electricity Billing System is a software-based application.
       2. Then create tables named as "bill", "customer" "login", "meter_info", "tax".
       3. Insert values of the tax table.
       Or (open text file Query.txt and copy all queries).
-7. Install NetBeans IDE (Preffered).
+7. Install NetBeans IDE.
 8. Create new project>Java with Ant>Java Application
 9. In Libraries folder add this two jar files
    1. MySQL connector (mysql-connector-j-8.2.jar)
