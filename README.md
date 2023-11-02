@@ -43,7 +43,7 @@ Electricity Billing System is a software-based application.
       1. At first, Create a database in MySQL named as "ebs".
       2. Then create tables named as "bill", "customer" "login", "meter_info", "tax".
       3. Insert values of the tax table.
-         Or (open this text file Query.txt and copy all queries).
+      Or (open this text file Query.txt and copy all queries).
 7. Install NetBeans IDE (Preffered).
 8. Create new project>Java with Ant>Java Application
 9. In Libraries folder add this two jar files
