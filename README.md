@@ -34,16 +34,19 @@ Electricity Billing System is a software-based application.
 
 ## Project Setup
 
-1. Clone the repository to your local machine.
+1. Fork this repository.
+2. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/electricity-billing-system.git
-2. Install MySQL if not installed.
-3. At first, Create a database in MySQL named as "ebs".
-4. Then create tables named as "bill", "customer" "login", "meter_info", "tax".
-5. Insert values of the tax table.
-6. Install NetBeans IDE .
-7. Create new project>Java with Ant>Java Application
-8. In Libraries folder add this two jar files
+   git clone https://github.com/Pankaj-Bind/electricity-billing-system.git
+3. Install MySQL if not installed.
+4. Open MySQL Command line client
+      1. At first, Create a database in MySQL named as "ebs".
+      2. Then create tables named as "bill", "customer" "login", "meter_info", "tax".
+      3. Insert values of the tax table.
+         Or (open this text file Query.txt and copy all queries).
+7. Install NetBeans IDE (Preffered).
+8. Create new project>Java with Ant>Java Application
+9. In Libraries folder add this two jar files
    1. MySQL connector (mysql-connector-j-8.2.jar)
       ```bash
       https://cdn.mysql.com//Downloads/Connector-J/mysql-connector-j-8.2.0.zip
