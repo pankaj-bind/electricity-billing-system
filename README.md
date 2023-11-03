@@ -46,7 +46,7 @@ Electricity Billing System is a software-based application.
       Or (open text file Query.txt and copy all queries).
 7. Install NetBeans IDE.
 8. Create new project>Java with Ant>Java Application
-9. In Libraries folder add this two jar files
+9. Download these two jar files and add in Libraries folder.
    1. MySQL connector (mysql-connector-j-8.2.jar)
       ```bash
       https://cdn.mysql.com//Downloads/Connector-J/mysql-connector-j-8.2.0.zip
@@ -56,6 +56,7 @@ Electricity Billing System is a software-based application.
    2. rs2xml.jar
       ```bash
       https://webwerks.dl.sourceforge.net/project/finalangelsanddemons/rs2xml.jar
+      ```
 10. Create a new project named as "Electricity Billing system" and start coding the java classes.
 
 ## Components
