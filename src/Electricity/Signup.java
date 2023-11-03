@@ -18,10 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
 
-/**
- *
- * @author Pankaj Bind
- */
+
 public class Signup extends JFrame implements ActionListener{
     JFrame p1;
     JTextField t1, t2, t3, t4;
