@@ -1,9 +1,9 @@
 package Electricity;
 
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
+import net.proteanit.sql.DbUtils;
 
 public class BillDetails extends JFrame{
     JTable t1;
