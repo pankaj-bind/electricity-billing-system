@@ -7,8 +7,11 @@
             <file>file:/F:/electricity-billing-system/src/Electricity/About.java</file>
             <file>file:/F:/electricity-billing-system/src/Electricity/Project.java</file>
             <file>file:/F:/electricity-billing-system/src/Electricity/Conn.java</file>
+            <file>file:/F:/electricity-billing-system/src/Electricity/DepositDetails.java</file>
+            <file>file:/F:/electricity-billing-system/src/Electricity/CustomerDetails.java</file>
             <file>file:/F:/electricity-billing-system/src/Electricity/Login.java</file>
             <file>file:/F:/electricity-billing-system/src/Electricity/NewCustomer.java</file>
+            <file>file:/F:/electricity-billing-system/src/Electricity/MeterInfo.java</file>
         </group>
     </open-files>
 </project-private>
